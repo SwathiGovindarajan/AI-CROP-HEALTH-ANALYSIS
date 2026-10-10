@@ -1,0 +1,6 @@
+{
+  "name": "AgroAI Precision Agriculture",
+  "description": "High-fidelity agricultural intelligence and AI plant pathology workstation with Vision Capture, Diagnosis History, Plant Health Analysis, Agro Tips, role-based User & Admin profiles, and an interactive AgroAI Copilot.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
